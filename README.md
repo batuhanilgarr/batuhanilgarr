@@ -1,4 +1,3 @@
-<div align="center">
 <h1 align="center">Hi 👋, I'm Batuhan Tuğberk İLGAR</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
@@ -28,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=batuhanilgarr&show_icons=true&locale=en" alt="batuhanilgarr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=batuhanilgarr&" alt="batuhanilgarr" /></p>
-</div>
