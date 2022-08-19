@@ -1,3 +1,4 @@
+/*
 <div style="text-align: center;">
   
 ## 🌐 Socials:
@@ -28,3 +29,4 @@
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
+*/
